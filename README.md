@@ -18,7 +18,7 @@ Installation with yarn
 
 ```sh
 yarn add @react-native-community/hooks
-```
+```.
 
 ## API
 
