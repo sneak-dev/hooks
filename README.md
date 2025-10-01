@@ -4,7 +4,7 @@
 
 [![Version][version-badge]][package]
 
-React Native APIs turned into React Hooks allowing you to access asynchronous APIs directly in your functional components.
+React Native APIs turned into React Hooks allowing you to access asynchronous APIs directly in your functional components....
 
 > Note: You must use React Native >= 0.59.0
 
